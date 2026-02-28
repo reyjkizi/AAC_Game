@@ -1,0 +1,21 @@
+# Результаты сборки
+bin/
+obj/
+Debug/
+Release/
+*.exe
+*.pdb
+
+# Пользовательские настройки
+*.user
+*.suo
+.vs/
+
+# Временные файлы
+*.log
+*.tmp
+
+# NuGet
+packages/
+*.nupkg
+packages.config
