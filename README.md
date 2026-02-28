@@ -13,9 +13,12 @@
   <h3>🎯 Классический шутер в стиле Wolfenstein 3D | 5 уровней | 4 типа врагов | Босс</h3>
   
   <!-- КНОПКА СКАЧИВАНИЯ -->
-  <a href="https://github.com/reyjkizi/AAC_Game/releases/download/v1.0.0/AAC_Game_v1.0.zip">
-    <img src="https://custom-icon-badges.demolab.com/badge/⬇️_СКАЧАТЬ_ИГРУ-v1.0.0-brightgreen?style=for-the-badge&logo=download&logoColor=white&labelColor=2ea44f&color=228b22" width="400" height="60" alt="Download">
+<div align="center">
+  <a href="https://github.com/reyjkizi/AAC_Game/releases/latest/download/AAC_Game.zip">
+    <img src="https://img.shields.io/badge/⬇️_Скачать_игру-последняя_версия-2ea44f?style=for-the-badge&logo=download&logoColor=white" width="400" height="60">
   </a>
+  <br>
+  <sub>Всегда актуальная версия</sub>
 </div>
 
 ---
