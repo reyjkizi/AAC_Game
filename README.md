@@ -196,18 +196,3 @@
   </a>
 </div>
 
----
-
-## ⭐ ПОДДЕРЖКА ПРОЕКТА
-
-<div align="center">
-  <h3>Если вам понравилась игра, поставьте звездочку на GitHub!</h3>
-  
-  <a href="https://github.com/reyjkizi/AAC_Game">
-    <img src="https://img.shields.io/badge/⭐_Поставить_звезду-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=gold&color=gold">
-  </a>
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&color=00FF00&center=true&vCenter=true&width=500&height=40&lines=Спасибо+за+скачивание!;Удачной+игры!;Жду+ваших+отзывов!" alt="Thank You" />
-</div>
