@@ -520,7 +520,28 @@ namespace AAC_Game.Core
 
                         if (target.Entity.HP <= 0)
                         {
-                            int score = target.Entity.Type == EntityType.TankEnemy ? 500 : 150;
+                            // ===== РАЗНЫЕ ОЧКИ ЗА РАЗНЫХ ВРАГОВ =====
+                            int score = 0;
+
+                            switch (target.Entity.Type)
+                            {
+                                case EntityType.Enemy:
+                                    score = 150;      // Обычный враг
+                                    break;
+                                case EntityType.FastEnemy:
+                                    score = 150;      // Быстрый враг (можно изменить)
+                                    break;
+                                case EntityType.TankEnemy:
+                                    score = 500;      // Враг-танк
+                                    break;
+                                case EntityType.Boss:
+                                    score = 1000;     // БОСС
+                                    break;
+                                default:
+                                    score = 100;      // На всякий случай
+                                    break;
+                            }
+
                             Player.Score += score;
                             KillsCount++;
 
