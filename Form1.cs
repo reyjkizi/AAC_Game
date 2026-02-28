@@ -242,9 +242,9 @@ namespace AAC_Game
         private void HandleSettingsClick(Point mousePos)
         {
             _audio.PlayClick();
-            if (new Rectangle(380, 95, 40, 30).Contains(mousePos))
+            if (new Rectangle(350, 95, 40, 30).Contains(mousePos))
                 _gameLogic.MouseSensitivity = Math.Max(0.0005f, _gameLogic.MouseSensitivity - 0.0005f);
-            if (new Rectangle(430, 95, 40, 30).Contains(mousePos))
+            if (new Rectangle(400, 95, 40, 30).Contains(mousePos))
                 _gameLogic.MouseSensitivity += 0.0005f;
 
             if (new Rectangle(350, 135, 40, 30).Contains(mousePos))
