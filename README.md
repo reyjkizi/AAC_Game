@@ -14,7 +14,7 @@
   
   <!-- КНОПКА СКАЧИВАНИЯ -->
 <div align="center">
-  <a href="https://github.com/reyjkizi/AAC_Game/releases/latest/download/AAC_Game.zip">
+  <a href="https://github.com/reyjkizi/AAC-Game/releases/latest/download/AAC-Game.zip">
     <img src="https://img.shields.io/badge/⬇️_Скачать_игру-последняя_версия-2ea44f?style=for-the-badge&logo=download&logoColor=white" width="400" height="60">
   </a>
   <br>
