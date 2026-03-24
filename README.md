@@ -13,7 +13,6 @@
   <h3>🎯 Классический шутер в стиле Wolfenstein 3D | 5 уровней | 4 типа врагов | Босс</h3>
   
   <!-- КНОПКА СКАЧИВАНИЯ -->
-<div align="center">
   <a href="https://github.com/reyjkizi/AAC-Game/releases/latest/download/AAC-Game.zip">
     <img src="https://img.shields.io/badge/⬇️_Скачать_игру-последняя_версия-2ea44f?style=for-the-badge&logo=download&logoColor=white" width="400" height="60">
   </a>
@@ -45,9 +44,9 @@
     <tr>
       <td align="center"><b>❓ Экран помощи</b></td>
       <td align="center"><b>🏆 Экран победы</b></td>
-      <td></td>
+      <td align="center"></td>
     </tr>
-  </table>
+   </table>
 </div>
 
 ---
@@ -140,8 +139,8 @@
       <td align="center">
         <h3>1️⃣</h3>
         <b>Скачайте архив</b><br>
-        <a href="https://github.com/reyjkizi/AAC_Game/releases/download/v1.0.0/AAC_Game_v1.0.zip">
-          <img src="https://img.shields.io/badge/⬇️_AAC_Game_v1.0.zip-2ea44f?style=for-the-badge&logo=download&logoColor=white">
+        <a href="https://github.com/reyjkizi/AAC-Game/releases/latest/download/AAC-Game.zip">
+          <img src="https://img.shields.io/badge/⬇️_AAC-Game.zip-2ea44f?style=for-the-badge&logo=download&logoColor=white">
         </a>
       </td>
       <td align="center">
@@ -199,3 +198,14 @@
   </a>
 </div>
 
+---
+
+## ⭐ ПОДДЕРЖКА ПРОЕКТА
+
+<div align="center">
+  <h3>Если вам понравилась игра, поставьте звездочку на GitHub!</h3>
+  
+  <a href="https://github.com/reyjkizi/AAC-Game">
+    <img src="https://img.shields.io/badge/⭐_Поставить_звезду-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=gold&color=gold">
+  </a>
+</div>
