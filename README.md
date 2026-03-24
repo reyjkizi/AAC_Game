@@ -4,8 +4,8 @@
   <h1>🎮 AAC GAME - 2.5D Шутер от первого лица</h1>
   
   <p>
-    <img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge&logo=github">
-    <img src="https://img.shields.io/github/downloads/reyjkizi/AAC_Game/total?style=for-the-badge&logo=download&color=success">
+    <img src="https://img.shields.io/badge/version-1.1.1-blue?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/github/downloads/reyjkizi/AAC-Game/total?style=for-the-badge&logo=download&color=success">
     <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=opensourceinitiative">
     <img src="https://img.shields.io/badge/platform-Windows-lightblue?style=for-the-badge&logo=windows">
   </p>
@@ -30,22 +30,22 @@
       <td><img src="Assets/Images/screenshots/menu.png" width="300" height="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></td>
       <td><img src="Assets/Images/screenshots/gameplay.png" width="300" height="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></td>
       <td><img src="Assets/Images/screenshots/boss.png" width="300" height="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></td>
-    </tr>
-    <tr>
+     </tr>
+     <tr>
       <td align="center"><b>🏠 Главное меню</b></td>
       <td align="center"><b>⚔️ Игровой процесс</b></td>
       <td align="center"><b>👾 Битва с боссом</b></td>
-    </tr>
-    <tr>
+     </tr>
+     <tr>
       <td><img src="Assets/Images/screenshots/help.png" width="300" height="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></td>
       <td><img src="Assets/Images/screenshots/victory.png" width="300" height="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></td>
       <td></td>
-    </tr>
-    <tr>
+     </tr>
+     <tr>
       <td align="center"><b>❓ Экран помощи</b></td>
       <td align="center"><b>🏆 Экран победы</b></td>
       <td align="center"></td>
-    </tr>
+     </tr>
    </table>
 </div>
 
@@ -62,30 +62,12 @@
 ### ✨ Особенности
 
 <table>
-  <tr>
-    <td align="center">🎯</td>
-    <td><b>5 уникальных уровней</b> с возрастающей сложностью</td>
-  </tr>
-  <tr>
-    <td align="center">👾</td>
-    <td><b>4 типа врагов:</b> обычные, быстрые, танки и огромный босс</td>
-  </tr>
-  <tr>
-    <td align="center">📊</td>
-    <td><b>Система очков</b> с бонусами за скорость, точность и отсутствие урона</td>
-  </tr>
-  <tr>
-    <td align="center">💾</td>
-    <td><b>Автосохранение</b> при выходе в меню</td>
-  </tr>
-  <tr>
-    <td align="center">🎚️</td>
-    <td><b>3 уровня сложности</b> (Easy, Normal, Hard)</td>
-  </tr>
-  <tr>
-    <td align="center">🔊</td>
-    <td><b>Полное звуковое сопровождение</b> (музыка + эффекты)</td>
-  </tr>
+  <tr><td align="center">🎯</td><td><b>5 уникальных уровней</b> с возрастающей сложностью</td></tr>
+  <tr><td align="center">👾</td><td><b>4 типа врагов:</b> обычные, быстрые, танки и огромный босс</td></tr>
+  <tr><td align="center">📊</td><td><b>Система очков</b> с бонусами за скорость, точность и отсутствие урона</td></tr>
+  <tr><td align="center">💾</td><td><b>Автосохранение</b> при выходе в меню</td></tr>
+  <tr><td align="center">🎚️</td><td><b>3 уровня сложности</b> (Easy, Normal, Hard)</td></tr>
+  <tr><td align="center">🔊</td><td><b>Полное звуковое сопровождение</b> (музыка + эффекты)</td></tr>
 </table>
 
 ---
@@ -136,23 +118,13 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <h3>1️⃣</h3>
-        <b>Скачайте архив</b><br>
+      <td align="center"><h3>1️⃣</h3><b>Скачайте архив</b><br>
         <a href="https://github.com/reyjkizi/AAC-Game/releases/latest/download/AAC-Game.zip">
           <img src="https://img.shields.io/badge/⬇️_AAC-Game.zip-2ea44f?style=for-the-badge&logo=download&logoColor=white">
         </a>
       </td>
-      <td align="center">
-        <h3>2️⃣</h3>
-        <b>Распакуйте</b><br>
-        в любую папку
-      </td>
-      <td align="center">
-        <h3>3️⃣</h3>
-        <b>Запустите</b><br>
-        <code>AAC_Game.exe</code>
-      </td>
+      <td align="center"><h3>2️⃣</h3><b>Распакуйте</b><br>в любую папку</td>
+      <td align="center"><h3>3️⃣</h3><b>Запустите</b><br><code>AAC_Game.exe</code></td>
     </tr>
   </table>
   
